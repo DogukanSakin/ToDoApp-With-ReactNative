@@ -22,6 +22,11 @@ git clone https://github.com/DogukanSakin/ToDoApp-With-ReactNative.git
 ```
 
 ## Usage
+To use it after cloning the project:
+```
+cd ToDoApp
+```
+
 Run the following commands in the project folder to install the project dependencies.
 
 ```
