@@ -6,6 +6,6 @@
 *.lock linguist-detectable=false
 *.bzl linguist-detectable=false
 *.mk linguist-detectable=false
-*/Gemfile linguist-vendored
-*/ios/Podfile linguist-vendored
-*/Gemfile.lock linguist-vendored
+*Gemfile linguist-vendored
+*ios/Podfile linguist-vendored
+*Gemfile.lock linguist-vendored
