@@ -38,11 +38,11 @@ These instructions will get a copy of the project up and running on your local m
 
 ## To Run the Application
 In the project directory you can run:
-For Android Emulator:
+
 ```
-npx react-native run-android
+For Android Emulator: npx react-native run-android
 ```
-For iOS Emulator:
+
 ```
-npx react-native run-ios
+For iOS Emulator: npx react-native run-ios
 ```
